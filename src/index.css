@@ -1,5 +1,17 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-family: fantasy;
+  font-size: 20px;
+  background: #77d4ff;
+  color: white;
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
